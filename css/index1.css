@@ -1,0 +1,45 @@
+.new1{
+    display: flex;
+    margin: px;
+}
+#nav1{
+    color: black;
+}
+.contain1{
+    margin: 10px;
+}
+#mis{
+    background-color: black;
+    color: aliceblue;
+}
+#mis1{
+    background-color: whitesmoke;
+    color: black;
+}
+.card1{
+    background-color: black;
+    color: white;
+}
+.card2{
+    background-color: white;
+    color:black;
+    align-items: center;
+}
+.bt{
+    margin: 5px;
+    padding:5px;
+    
+}
+.txt{
+    text-align: center;
+    
+}
+.scrollbar{
+    display: none;
+}
+.t1{
+    text-align: left;
+}
+.t2{
+    color: white;
+}
